@@ -9,3 +9,21 @@ It’s a **work in progress 🚧** – I’ll remove this note once I feel it’
 
 I’m mainly building it for myself, but maybe it can also be useful for someone else – so I decided to push it here 😅.  
 If it goes well, I’ll deploy it on Netlify so you don’t have to bother with cloning and running it locally.
+
+---
+
+## Getting Started
+
+### 1. Download zip folder
+### 2. Navigate into the project folder
+```bash
+cd project-list
+```
+### 3. Install dependencies
+```bash
+npm install
+```
+### 4. Start the development server
+```bash
+npm run dev
+```

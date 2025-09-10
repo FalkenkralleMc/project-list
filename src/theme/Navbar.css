@@ -35,3 +35,10 @@
 .settings-btn:hover {
     background-color: var(--color-bg-teritary);
 }
+
+.settings-btn{
+    background-color: none;
+}
+.settings-btn:hover{
+    background-color: var(--color-bg-secondary);
+}

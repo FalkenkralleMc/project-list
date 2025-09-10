@@ -1,10 +1,11 @@
 import "../theme/Navbar.css";
-import Button from "./Button.jsx"
+import Button from "./Button.jsx";
+import logo from "../../title.svg";
 
 function Navbar() {
   const homeBtnInnerHTML = (
     <>
-      <img src="../../title.svg" width="25px"/> Projectlist
+      <img src={logo} width="25px"/> Projectlist
     </>)
   
 

@@ -1,6 +1,6 @@
 import "../theme/Navbar.css";
 import Button from "./Button.jsx";
-import logo from "../../title.svg";
+import {logo} from "../../title.svg";
 
 function Navbar() {
   const homeBtnInnerHTML = (

@@ -1,0 +1,27 @@
+/**Because of my own preferences I will focus on darkmode and add a white mode later in the code*/
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
+:root {
+  /* Hintergründe */
+  --color-bg: #121212;
+  --color-bg-secondary: #1E1E1E;
+  --color-bg-teritary: #2F2F2F;
+
+  /* Text */
+  --color-text: #F1F1F1;
+  --color-text-muted: #A0A0A0;
+
+  /* Akzente */
+  --color-accent-blue: #4F8BFF;
+  --color-accent-purple: #9B6BFF;
+  --color-accent-green: #4CAF50;
+  --color-accent-orange: #FF9800;
+  --color-accent-pink: #FF5FA2;
+
+  /* Status */
+  --color-success: #4CAF50;
+  --color-warning: #FFC107;
+  --color-error: #F44336;
+
+  /* Border / Divider */
+  --color-border: rgba(255,255,255,0.1);
+}

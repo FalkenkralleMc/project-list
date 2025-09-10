@@ -1,0 +1,24 @@
+@import url("./index.css");
+.Navbar{
+    background-color: var(--color-bg-secondary);
+
+    height:50px;
+    width:100%;
+
+    padding:10px;
+}
+
+.home-btn{
+    height:100%;
+    width:200px;
+    text-align:left;
+    background-color: var(--color-bg-secondary);
+    border:none;
+    font-size:25px;    
+    font-family: "Orbitron", sans-serif;
+    color:var(--color-text)
+}
+
+.home-btn:hover{
+    background-color: var(--color-bg-teritary);
+}

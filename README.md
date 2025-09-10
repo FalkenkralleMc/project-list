@@ -1,4 +1,9 @@
 # Project List
+<p align="center">
+<b><i>Thats the current state of my project so you don't have to bother with building</i></b>
+<br />
+<b><a href="https://project-list-falkenkralle.netlify.app/">project-list</a></b><br />
+</p>
 
 Do you know that feeling when you get super hyped about a new idea – only to abandon it a few days later?  
 That happens to me all the time. So I (ironically 😅) started a new project: **a list to store and keep track of all my started and planned projects.**

@@ -25,3 +25,11 @@
   /* Border / Divider */
   --color-border: rgba(255,255,255,0.1);
 }
+
+body{
+    padding:0px;
+    margin:0px;
+    background-color: var(--color-bg);
+    color: var(--color-text);
+}
+

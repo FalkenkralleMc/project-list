@@ -11,7 +11,12 @@ function Navbar() {
 
   return (
     <div className="Navbar">
-      <Button className="home-btn" innerHTML={homeBtnInnerHTML}/>
+      <div class="left">
+        <Button className="home-btn" innerHTML={homeBtnInnerHTML}/>
+      </div>
+      <div class="right">
+        <Button className="github-btn" innerHTML="github"/>
+      </div>
     </div>
   )
 }

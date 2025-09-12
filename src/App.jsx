@@ -1,5 +1,6 @@
 import './theme/App.css';
 import Navbar from "./components/Navbar.jsx";
+import MainDiv from "./components/MainDiv.jsx";
 
 function App() {
 
@@ -7,6 +8,7 @@ function App() {
   return (
     <>
       <Navbar/>
+      <MainDiv/>
     </>
   )
 }

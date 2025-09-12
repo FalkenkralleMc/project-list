@@ -1,0 +1,21 @@
+.mainDiv{
+    background-color: var(--color-bg-secondary);
+    margin:20px;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    padding:10px;
+    display:flex;
+    justify-content: space-between;
+    gap:10px;
+}
+
+.main{
+    background-color: var(--color-bg-teritary);
+    width:100%;
+    border:none;
+    border-radius:8px;
+    text-align:center;
+    align-content:center;
+    color: var(--color-text);
+    min-height:10vh;
+}
